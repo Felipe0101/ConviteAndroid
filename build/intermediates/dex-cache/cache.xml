@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_9e76fc436d91d94d0f7a64c7cf00ff42898bf7cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\src\main\java\finalconvite\br\edu\ifpb\final_convite\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\gson-2.6.2_d7c3249b9cb09772cd64b54e1d9c9032b2c28b86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_865addc3c3ae4aa0d4dcfda277cd0e50d7e30d4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_69b1c22c480cf73cec91c8e60b3580ec1c4dd1b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\src\main\java\finalconvite\br\edu\ifpb\final_convite\libs\core-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="80a402b12accd66d4be7e5dbcb44e42baa0bdd7c">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\core-2.3.0_e4666201e3fb3fb5dc271c5f7ae79e2c54855ca0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\src\main\java\finalconvite\br\edu\ifpb\final_convite\libs\zxing-integration.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f58522f35e7a50e8cab20a41d102e0039bee1dc7">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\zxing-integration_6b12f83965ced9f538024d40afb3854236daeb44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\src\main\java\finalconvite\br\edu\ifpb\final_convite\libs\zxing-2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\zxing-2.1_f8fa224799ec266d4d976cd29ff6bf5e421fc65d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Felipe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Felipe\AndroidStudioProjects\Final-Convite\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_7a14b1e2b65f2ffd6b0eb3a83dcdbb64ef09e6c8.jar" />
+    </item>
+
+</items>

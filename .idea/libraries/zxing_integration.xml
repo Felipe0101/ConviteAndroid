@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zxing-integration">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/java/finalconvite/br/edu/ifpb/final_convite/libs/zxing-integration.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
